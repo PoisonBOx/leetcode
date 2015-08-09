@@ -1,3 +1,5 @@
-c
-cpp
-java
+c/
+cpp/
+java/
+*.pyc
+main.py
