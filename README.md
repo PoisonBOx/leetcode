@@ -1,2 +1,2 @@
 # leetcode
-my leetcode working
+my leetcode works

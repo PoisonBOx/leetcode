@@ -1,5 +1,4 @@
-c/
+build/
 cpp/
 java/
 *.pyc
-main.py
